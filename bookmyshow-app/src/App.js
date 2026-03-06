@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Router />
+       <button onClick={handleClick}>Click Me</button> {/* New feature */}
       <Footer />
 
     </div>
