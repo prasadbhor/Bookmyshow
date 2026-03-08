@@ -75,7 +75,10 @@ Let's connect and discuss DevOps!
 After deploying the app, share your feedback on LinkedIn! Tag me and include the project link to help spread the word.  
 
 ---
+## DevOps Enhancement
 
-## 🎉 **Happy Learning!**  
+CI/CD pipeline implemented using Jenkins, Docker, Kubernetes, Prometheus and Grafana.
+  
 
-**KASTRO KIRAN V**
+**krishna pal singh chauhan**
+
